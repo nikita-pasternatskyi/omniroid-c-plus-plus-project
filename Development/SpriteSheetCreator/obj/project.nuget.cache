@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4XRnKhY9Zycp3HrrILb+ia7V53KTqL1Cfe46eo49tnO5I5DYFcIkxGYVzwBkCevph2B7qedBpFR2lqDtQe28g==",
+  "success": true,
+  "projectFilePath": "D:\\MyStuff\\University\\1st Semester\\T1\\Assignments\\final-project-mykyta.pasternatskyi\\Development\\SpriteSheetCreator\\SpriteSheetCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niqita\\.nuget\\packages\\sixlabors.imagesharp\\3.1.1\\sixlabors.imagesharp.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

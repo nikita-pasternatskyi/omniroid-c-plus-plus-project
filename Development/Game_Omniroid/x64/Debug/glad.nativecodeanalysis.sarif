@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.36.32532.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/mystuff/university/1st semester/t1/assignments/final-project-mykyta.pasternatskyi/development/game_omniroid/src/glad.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "e66a0f32039a841700143fe777cb37ce75f5c1a4f38d996e793b3b8464ddaa99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/mystuff/university/1st semester/t1/assignments/final-project-mykyta.pasternatskyi/development/game_omniroid/include/glad/glad.h"
+          },
+          "hashes": {
+            "sha-256": "3abc42eebf5d9b713615a6a02a7bd981bbddfc4d8540f139a37ccb1882583fd6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/mystuff/university/1st semester/t1/assignments/final-project-mykyta.pasternatskyi/development/game_omniroid/include/khr/khrplatform.h"
+          },
+          "hashes": {
+            "sha-256": "7b1e01aaa7ad8f6fc34b5c7bdf79ebf5189bb09e2c4d2e79fc5d350623d11e83"
+          }
+        }
+      ]
+    }
+  ]
+}

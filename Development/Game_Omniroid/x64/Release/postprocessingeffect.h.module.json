@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\PostProcessingEffect.h.obj",
+            "outputs": [
+                "D:\\MyStuff\\University\\1st Semester\\T1\\Assignments\\final-project-mykyta.pasternatskyi\\Development\\Game_Omniroid\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "D:\\MyStuff\\University\\1st Semester\\T1\\Assignments\\final-project-mykyta.pasternatskyi\\Development\\Game_Omniroid\\x64\\Release\\PostProcessingEffect.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "src\\rendering\\postProcessing\\PostProcessingEffect.h",
+                    "source-path": "d:\\mystuff\\university\\1st semester\\t1\\assignments\\final-project-mykyta.pasternatskyi\\development\\game_omniroid\\src\\rendering\\postprocessing\\postprocessingeffect.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

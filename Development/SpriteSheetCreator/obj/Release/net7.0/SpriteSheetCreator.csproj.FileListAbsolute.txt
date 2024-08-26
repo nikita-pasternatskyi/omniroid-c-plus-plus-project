@@ -1,0 +1,17 @@
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\bin\Release\net7.0\SpriteSheetCreator.exe
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\bin\Release\net7.0\SpriteSheetCreator.deps.json
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\bin\Release\net7.0\SpriteSheetCreator.runtimeconfig.json
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\bin\Release\net7.0\SpriteSheetCreator.dll
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\bin\Release\net7.0\SpriteSheetCreator.pdb
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\bin\Release\net7.0\SixLabors.ImageSharp.dll
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.csproj.AssemblyReference.cache
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.AssemblyInfoInputs.cache
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.AssemblyInfo.cs
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.csproj.CoreCompileInputs.cache
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.csproj.CopyComplete
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.dll
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\refint\SpriteSheetCreator.dll
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.pdb
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\SpriteSheetCreator.genruntimeconfig.cache
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\SpriteSheetCreator\obj\Release\net7.0\ref\SpriteSheetCreator.dll

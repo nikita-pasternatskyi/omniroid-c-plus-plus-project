@@ -1,0 +1,1152 @@
+{ "frames": [
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 0, "y": 0 , "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 3500
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 26, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 52, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 78, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 103, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 128, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 153, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 178, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 203, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 228, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 252, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 276, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 324, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 348, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 372, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 420, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 444, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 468, "y": 0, "w": 24, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 23, "w": 24, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 492, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 517, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 542, "y": 0, "w": 25, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 567, "y": 0, "w": 26, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 593, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 619, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 646, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 673, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 700, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 728, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 756, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 784, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 812, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 840, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 868, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 896, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 924, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 952, "y": 0, "w": 28, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 23, "w": 28, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 980, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1007, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1034, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1061, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1088, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1115, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1142, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1169, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1196, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1223, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1250, "y": 0, "w": 27, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 27, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1277, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1303, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1329, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1355, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1381, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1407, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1433, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1459, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1485, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1511, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1537, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 26, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 23, "w": 26, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1563, "y": 0, "w": 25, "h": 61 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 22, "w": 25, "h": 61 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1588, "y": 0, "w": 25, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 23, "w": 25, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1613, "y": 0, "w": 31, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 31, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1644, "y": 0, "w": 40, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 24, "w": 40, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1684, "y": 0, "w": 45, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 22, "y": 23, "w": 45, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1729, "y": 0, "w": 50, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 23, "w": 50, "h": 56 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1779, "y": 0, "w": 54, "h": 53 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 54, "h": 53 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1833, "y": 0, "w": 56, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 56, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1889, "y": 0, "w": 54, "h": 53 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 24, "w": 54, "h": 53 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1943, "y": 0, "w": 48, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 26, "w": 48, "h": 55 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1991, "y": 0, "w": 37, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 25, "w": 37, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 0, "y": 61, "w": 36, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 25, "w": 36, "h": 56 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 36, "y": 61, "w": 43, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 24, "w": 43, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 79, "y": 61, "w": 48, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 48, "h": 56 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 127, "y": 61, "w": 54, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 23, "w": 54, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 181, "y": 61, "w": 56, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 56, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 237, "y": 61, "w": 55, "h": 53 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 23, "w": 55, "h": 53 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 292, "y": 61, "w": 49, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 25, "w": 49, "h": 55 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 341, "y": 61, "w": 41, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 21, "y": 26, "w": 41, "h": 56 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 382, "y": 61, "w": 36, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 25, "w": 36, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 418, "y": 61, "w": 40, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 25, "w": 40, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 458, "y": 61, "w": 48, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 22, "y": 24, "w": 48, "h": 57 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 506, "y": 61, "w": 52, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 52, "h": 55 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 558, "y": 61, "w": 55, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 23, "w": 55, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 613, "y": 61, "w": 56, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 56, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 669, "y": 61, "w": 52, "h": 54 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 22, "w": 52, "h": 54 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 721, "y": 61, "w": 40, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 20, "w": 40, "h": 59 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 761, "y": 61, "w": 26, "h": 76 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 34, "y": 7, "w": 26, "h": 76 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 787, "y": 61, "w": 30, "h": 74 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 8, "w": 30, "h": 74 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 817, "y": 61, "w": 31, "h": 73 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 8, "w": 31, "h": 73 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 848, "y": 61, "w": 29, "h": 74 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 7, "w": 29, "h": 74 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 877, "y": 61, "w": 24, "h": 74 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 8, "w": 24, "h": 74 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 901, "y": 61, "w": 31, "h": 67 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 16, "w": 31, "h": 67 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 932, "y": 61, "w": 39, "h": 63 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 30, "y": 21, "w": 39, "h": 63 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 971, "y": 61, "w": 43, "h": 62 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 21, "w": 43, "h": 62 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1014, "y": 61, "w": 46, "h": 61 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 25, "y": 21, "w": 46, "h": 61 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1060, "y": 61, "w": 45, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 25, "y": 21, "w": 45, "h": 60 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1105, "y": 61, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 25, "y": 22, "w": 44, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1149, "y": 61, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 25, "y": 22, "w": 44, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1193, "y": 61, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 25, "y": 22, "w": 44, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1237, "y": 61, "w": 46, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 23, "w": 46, "h": 58 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1283, "y": 61, "w": 38, "h": 61 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 35, "y": 22, "w": 38, "h": 61 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1321, "y": 61, "w": 23, "h": 53 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 37, "y": 28, "w": 23, "h": 53 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1344, "y": 61, "w": 32, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 35, "y": 31, "w": 32, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1376, "y": 61, "w": 36, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 32, "w": 36, "h": 51 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1412, "y": 61, "w": 38, "h": 49 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 29, "y": 33, "w": 38, "h": 49 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1450, "y": 61, "w": 39, "h": 49 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 33, "w": 39, "h": 49 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1489, "y": 61, "w": 39, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 34, "w": 39, "h": 48 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1528, "y": 61, "w": 39, "h": 47 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 35, "w": 39, "h": 47 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1567, "y": 61, "w": 39, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 35, "w": 39, "h": 48 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1606, "y": 61, "w": 40, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 35, "w": 40, "h": 48 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1646, "y": 61, "w": 43, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 26, "y": 35, "w": 43, "h": 48 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1689, "y": 61, "w": 49, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 33, "w": 49, "h": 48 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1738, "y": 61, "w": 52, "h": 50 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 21, "y": 26, "w": 52, "h": 50 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1790, "y": 61, "w": 53, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 21, "w": 53, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1843, "y": 61, "w": 54, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 54, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1897, "y": 61, "w": 55, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 55, "h": 46 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 1952, "y": 61, "w": 59, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 22, "w": 59, "h": 48 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 0, "y": 137, "w": 61, "h": 49 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 22, "w": 61, "h": 49 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 61, "y": 137, "w": 56, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 56, "h": 52 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 117, "y": 137, "w": 53, "h": 54 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 25, "w": 53, "h": 54 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 170, "y": 137, "w": 56, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 31, "w": 56, "h": 57 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 226, "y": 137, "w": 67, "h": 42 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 46, "w": 67, "h": 42 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 293, "y": 137, "w": 71, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 55, "w": 71, "h": 32 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   },
+   {
+    "filename": "omniroid.aseprite",
+    "frame": { "x": 364, "y": 137, "w": 72, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 59, "w": 72, "h": 25 },
+    "sourceSize": { "w": 88, "h": 88 },
+    "duration": 42
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "Image0000-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 2048, "h": 194 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle_looped", "from": 0, "to": 60, "direction": "forward", "repeat": "2", "color": "#000000ff" },
+   { "name": "Run_looped", "from": 61, "to": 83, "direction": "forward", "repeat": "2", "color": "#000000ff" },
+   { "name": "Jump-Fall", "from": 88, "to": 101, "direction": "forward", "repeat": "1", "color": "#000000ff" },
+   { "name": "ShoulderBash", "from": 104, "to": 116, "direction": "forward", "repeat": "1", "color": "#000000ff" },
+   { "name": "Slide", "from": 122, "to": 125, "direction": "forward", "repeat": "1", "color": "#000000ff" }
+  ]
+ }
+}

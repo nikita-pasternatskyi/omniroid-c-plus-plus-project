@@ -1,0 +1,217 @@
+﻿  Scanning sources for module dependencies...
+  Game_Omniroid.cpp
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\ShaderParameter.h(21,39): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\materials\Material.h(6,1): warning C4099: 'Material': type name first seen using 'class' now seen using 'struct'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\materials\Material.h(5,8): message : see declaration of 'Material'
+  Game.cpp
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\ShaderParameter.h(21,39): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\materials\Material.h(6,1): warning C4099: 'Material': type name first seen using 'class' now seen using 'struct'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\materials\Material.h(5,8): message : see declaration of 'Material'
+  Demo.cpp
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\ShaderParameter.h(21,39): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\materials\Material.h(6,1): warning C4099: 'Material': type name first seen using 'class' now seen using 'struct'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\rendering\materials\Material.h(5,8): message : see declaration of 'Material'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\gameWorld\systems\animatedSprite\AnimatedSpriteRendererComponent.h(22,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\gameWorld\systems\animatedSprite\AnimatedSpriteRendererComponent.h(23,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\player\PlayerSystem.h(16,22): warning C4099: 'PlayerComponent': type name first seen using 'struct' now seen using 'class'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\player\PlayerComponent.h(5,8): message : see declaration of 'PlayerComponent'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\player\PlayerSystem.h(17,21): warning C4099: 'PlayerCollider': type name first seen using 'struct' now seen using 'class'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\player\PlayerCollider.h(2,8): message : see declaration of 'PlayerCollider'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\player\PlayerSystem.h(19,25): warning C4099: 'TransformComponent': type name first seen using 'struct' now seen using 'class'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\gameWorld\systems\TransformComponent.h(4,8): message : see declaration of 'TransformComponent'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(80,99): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(220,101): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(220,78): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(231,101): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(231,78): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(249,105): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(249,82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(319,76): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(324,56): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(337,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(346,83): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(346,60): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(378,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(384,83): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(384,62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(430,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(430,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(451,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(451,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(505,83): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(505,60): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(2066,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\type_traits(1484): message : see reference to function template instantiation 'auto entt::uninitialized_construct_using_allocator::<lambda_1>::operator ()<glm::vec3&,glm::vec2&,int&>(glm::vec3 &,glm::vec2 &,int &) const' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\tuple(867,25): message : see reference to function template instantiation 'decltype(auto) std::_Apply_impl<_Ty,std::tuple<glm::vec3 &,glm::vec2 &,int &>,0,1,2>(_Callable &&,_Tuple &&,std::integer_sequence<size_t,0,1,2>) noexcept(<expr>)' being compiled
+          with
+          [
+              _Ty=entt::uninitialized_construct_using_allocator::<lambda_1>,
+              _Callable=entt::uninitialized_construct_using_allocator::<lambda_1>,
+              _Tuple=std::tuple<glm::vec3 &,glm::vec2 &,int &>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(2066,17): message : see reference to function template instantiation 'decltype(auto) std::apply<entt::uninitialized_construct_using_allocator::<lambda_1>,std::tuple<glm::vec3 &,glm::vec2 &,int &>>(_Callable &&,_Tuple &&) noexcept(<expr>)' being compiled
+          with
+          [
+              _Callable=entt::uninitialized_construct_using_allocator::<lambda_1>,
+              _Tuple=std::tuple<glm::vec3 &,glm::vec2 &,int &>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(17171,19): message : see reference to function template instantiation 'Type *entt::uninitialized_construct_using_allocator<TransformComponent,std::allocator<TransformComponent>,glm::vec3&,glm::vec2&,int&>(Type *,const Allocator &,glm::vec3 &,glm::vec2 &,int &)' being compiled
+          with
+          [
+              Type=TransformComponent,
+              Allocator=std::allocator<TransformComponent>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(17571,29): message : see reference to function template instantiation 'entt::internal::sparse_set_iterator<std::vector<Entity,Allocator>> entt::basic_storage<Type,Entity,std::allocator<TransformComponent>,void>::emplace_element<glm::vec3&,glm::vec2&,int&>(const Entity,const bool,glm::vec3 &,glm::vec2 &,int &)' being compiled
+          with
+          [
+              Entity=entt::entity,
+              Allocator=std::allocator<entt::entity>,
+              Type=TransformComponent
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(24477,30): message : see reference to function template instantiation 'TransformComponent &entt::basic_storage<Type,Entity,Allocator,void>::emplace<glm::vec3&,glm::vec2&,int&>(const entt::entity,glm::vec3 &,glm::vec2 &,int &)' being compiled
+          with
+          [
+              Type=TransformComponent,
+              Entity=entt::entity,
+              Allocator=std::allocator<TransformComponent>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(38255,30): message : see reference to function template instantiation 'TransformComponent &entt::basic_sigh_mixin<entt::basic_storage<Type,Entity,Allocator,void>,entt::basic_registry<Entity,std::allocator<Entity>>>::emplace<glm::vec3&,glm::vec2&,int&>(const entt::entity,glm::vec3 &,glm::vec2 &,int &)' being compiled
+          with
+          [
+              Type=TransformComponent,
+              Entity=entt::entity,
+              Allocator=std::allocator<TransformComponent>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.h(38,19): message : see reference to function template instantiation 'TransformComponent &entt::basic_registry<entt::entity,std::allocator<Entity>>::emplace<TransformComponent,glm::vec3&,glm::vec2&,int&>(const entt::entity,glm::vec3 &,glm::vec2 &,int &)' being compiled
+          with
+          [
+              Entity=entt::entity
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(100,5): message : see reference to function template instantiation 'TransformComponent &Demo::AddComponent<TransformComponent,glm::vec3,glm::vec2,int>(const entt::entity &,glm::vec3 &&,glm::vec2 &&,int &&)' being compiled
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(2066,100): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\type_traits(1484): message : see reference to function template instantiation 'auto entt::uninitialized_construct_using_allocator::<lambda_1>::operator ()<_Ty1,_Ty,double>(_Ty1 &&,_Ty &&,double &&) const' being compiled
+          with
+          [
+              _Ty1=glm::vec3,
+              _Ty=glm::vec2
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\tuple(867,25): message : see reference to function template instantiation 'decltype(auto) std::_Apply_impl<_Ty,std::tuple<glm::vec<3,float,glm::packed_highp> &&,glm::vec<2,float,glm::packed_highp> &&,double &&>,0,1,2>(_Callable &&,_Tuple &&,std::integer_sequence<size_t,0,1,2>) noexcept(<expr>)' being compiled
+          with
+          [
+              _Ty=entt::uninitialized_construct_using_allocator::<lambda_1>,
+              _Callable=entt::uninitialized_construct_using_allocator::<lambda_1>,
+              _Tuple=std::tuple<glm::vec3 &&,glm::vec2 &&,double &&>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(2066,17): message : see reference to function template instantiation 'decltype(auto) std::apply<entt::uninitialized_construct_using_allocator::<lambda_1>,std::tuple<_Ty &&,glm::vec<2,float,glm::packed_highp> &&,double &&>>(_Callable &&,_Tuple &&) noexcept(<expr>)' being compiled
+          with
+          [
+              _Ty=glm::vec3,
+              _Callable=entt::uninitialized_construct_using_allocator::<lambda_1>,
+              _Tuple=std::tuple<glm::vec3 &&,glm::vec2 &&,double &&>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(17171,19): message : see reference to function template instantiation 'Type *entt::uninitialized_construct_using_allocator<TransformComponent,std::allocator<TransformComponent>,_Ty,glm::vec<2,float,glm::packed_highp>,double>(Type *,const Allocator &,_Ty &&,glm::vec<2,float,glm::packed_highp> &&,double &&)' being compiled
+          with
+          [
+              Type=TransformComponent,
+              _Ty=glm::vec3,
+              Allocator=std::allocator<TransformComponent>
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(17571,29): message : see reference to function template instantiation 'entt::internal::sparse_set_iterator<std::vector<Entity,Allocator>> entt::basic_storage<Type,Entity,std::allocator<TransformComponent>,void>::emplace_element<_Ty,glm::vec<2,float,glm::packed_highp>,double>(const Entity,const bool,_Ty &&,glm::vec<2,float,glm::packed_highp> &&,double &&)' being compiled
+          with
+          [
+              Entity=entt::entity,
+              Allocator=std::allocator<entt::entity>,
+              Type=TransformComponent,
+              _Ty=glm::vec3
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(24477,30): message : see reference to function template instantiation 'TransformComponent &entt::basic_storage<Type,Entity,Allocator,void>::emplace<_Ty,glm::vec<2,float,glm::packed_highp>,double>(const entt::entity,_Ty &&,glm::vec<2,float,glm::packed_highp> &&,double &&)' being compiled
+          with
+          [
+              Type=TransformComponent,
+              Entity=entt::entity,
+              Allocator=std::allocator<TransformComponent>,
+              _Ty=glm::vec3
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\include\entt\entt.hpp(38255,30): message : see reference to function template instantiation 'TransformComponent &entt::basic_sigh_mixin<entt::basic_storage<Type,Entity,Allocator,void>,entt::basic_registry<Entity,std::allocator<Entity>>>::emplace<_Ty,glm::vec<2,float,glm::packed_highp>,double>(const entt::entity,_Ty &&,glm::vec<2,float,glm::packed_highp> &&,double &&)' being compiled
+          with
+          [
+              Type=TransformComponent,
+              Entity=entt::entity,
+              Allocator=std::allocator<TransformComponent>,
+              _Ty=glm::vec3
+          ]
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\src\game\Demo.cpp(365,14): message : see reference to function template instantiation 'TransformComponent &entt::basic_registry<entt::entity,std::allocator<Entity>>::emplace<TransformComponent,glm::vec3,glm::vec2,double>(const entt::entity,glm::vec3 &&,glm::vec2 &&,double &&)' being compiled
+          with
+          [
+              Entity=entt::entity
+          ]
+  Generating code
+  2 of 6514 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game_Omniroid.vcxproj -> D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\x64\Release\Game_Omniroid.exe

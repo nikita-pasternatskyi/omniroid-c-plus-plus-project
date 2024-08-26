@@ -1,0 +1,3 @@
+C:\Users\Niqita\Desktop\University\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\x64\Debug\Game_Omniroid.exe
+C:\Users\Niqita\Desktop\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\x64\Debug\Game_Omniroid.exe
+D:\MyStuff\University\1st Semester\T1\Assignments\final-project-mykyta.pasternatskyi\Development\Game_Omniroid\x64\Debug\Game_Omniroid.exe

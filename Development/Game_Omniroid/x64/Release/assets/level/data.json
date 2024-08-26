@@ -1,0 +1,451 @@
+{
+	"identifier": "Level_0",
+	"uniqueIdentifer": "5198a201-b0a0-11ee-b3ab-6b01bd940cdf",
+	"x": 0,
+	"y": 0,
+	"width": 1440,
+	"height": 1050,
+	"bgColor": "#696A79",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"City.png",
+		"Background.png",
+		"Pipes2.png",
+		"Pipes.png",
+		"MiddleGround.png",
+		"Foreground.png"
+	],
+	"entities": {
+		"CollisionRect": [
+			{
+				"id": "CollisionRect",
+				"iid": "53f6ab30-b0a0-11ee-a395-c1328edf4d1d",
+				"layer": "Collision",
+				"x": 1,
+				"y": 208,
+				"width": 1302,
+				"height": 127,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "d0393b90-b0a0-11ee-b95b-475d7daf60ce",
+				"layer": "Collision",
+				"x": 94,
+				"y": 459,
+				"width": 1309,
+				"height": 79,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "d9148940-b0a0-11ee-b95b-210cd5b30d02",
+				"layer": "Collision",
+				"x": 1386,
+				"y": 32,
+				"width": 53,
+				"height": 1020,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "e070b100-b0a0-11ee-b95b-7f0992bbe890",
+				"layer": "Collision",
+				"x": 157,
+				"y": 0,
+				"width": 1288,
+				"height": 34,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "d4d71b50-b0a0-11ee-b95b-419fd255acb0",
+				"layer": "Collision",
+				"x": 52,
+				"y": 709,
+				"width": 1174,
+				"height": 117,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "ddbca230-b0a0-11ee-b95b-29ba5573d3dc",
+				"layer": "Collision",
+				"x": 1,
+				"y": 310,
+				"width": 53,
+				"height": 759,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "41097bc0-b0a0-11ee-b95b-2f517874b5c8",
+				"layer": "Collision",
+				"x": 638,
+				"y": 158,
+				"width": 86,
+				"height": 62,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "02ccc140-b0a0-11ee-b95b-f395d3ce1b16",
+				"layer": "Collision",
+				"x": 307,
+				"y": 296,
+				"width": 221,
+				"height": 123,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "062ed800-b0a0-11ee-b95b-09c594e84deb",
+				"layer": "Collision",
+				"x": 870,
+				"y": 309,
+				"width": 108,
+				"height": 110,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			},
+			{
+				"id": "CollisionRect",
+				"iid": "14ad9060-b0a0-11ee-b95b-530b99e1f630",
+				"layer": "Collision",
+				"x": -1,
+				"y": 974,
+				"width": 1443,
+				"height": 75,
+				"color": 6539085,
+				"customFields": {
+					"Name": null,
+					"Trigger": false
+				}
+			}
+		],
+		"Crate": [
+			{
+				"id": "Crate",
+				"iid": "66cfb320-b0a0-11ee-b95b-5da7df40a027",
+				"layer": "Collision",
+				"x": 902,
+				"y": 176,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "b6134b90-b0a0-11ee-b95b-0bc824b6b02a",
+				"layer": "Collision",
+				"x": 937,
+				"y": 176,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "c29e33c0-b0a0-11ee-b95b-51a21dc1a742",
+				"layer": "Collision",
+				"x": 912,
+				"y": 143,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "c39209a0-b0a0-11ee-b95b-75f84e0439d5",
+				"layer": "Collision",
+				"x": 942,
+				"y": 143,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "c7153cf0-b0a0-11ee-b95b-49c4e1bf711d",
+				"layer": "Collision",
+				"x": 868,
+				"y": 175,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "cbb85f30-b0a0-11ee-b95b-9b113d452113",
+				"layer": "Collision",
+				"x": 970,
+				"y": 175,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "0f44b320-b0a0-11ee-b95b-bb0f33bbbd49",
+				"layer": "Collision",
+				"x": 682,
+				"y": 426,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "10f79340-b0a0-11ee-b95b-b3cb580a4f3f",
+				"layer": "Collision",
+				"x": 648,
+				"y": 426,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "1dba0630-b0a0-11ee-b95b-a5176211b5e9",
+				"layer": "Collision",
+				"x": 214,
+				"y": 675,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "1f252ef0-b0a0-11ee-b95b-4327c655d371",
+				"layer": "Collision",
+				"x": 214,
+				"y": 641,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "209364f0-b0a0-11ee-b95b-69e29cace17d",
+				"layer": "Collision",
+				"x": 214,
+				"y": 608,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "26194610-b0a0-11ee-b95b-d774cbbd6e28",
+				"layer": "Collision",
+				"x": 331,
+				"y": 677,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "270a0eb0-b0a0-11ee-b95b-37fe1ac509b3",
+				"layer": "Collision",
+				"x": 331,
+				"y": 645,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "27f11350-b0a0-11ee-b95b-27dff505d5ec",
+				"layer": "Collision",
+				"x": 331,
+				"y": 612,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "3a999350-b0a0-11ee-b95b-3df40b34888e",
+				"layer": "Collision",
+				"x": 598,
+				"y": 675,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "3de981a0-b0a0-11ee-b95b-91461d645e10",
+				"layer": "Collision",
+				"x": 598,
+				"y": 641,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "3fd59a30-b0a0-11ee-b95b-590034fb8d7a",
+				"layer": "Collision",
+				"x": 597,
+				"y": 607,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "0056ceb0-b0a0-11ee-b95b-f5ff59e7dd44",
+				"layer": "Collision",
+				"x": 941,
+				"y": 673,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "01b10780-b0a0-11ee-b95b-230af1d9b40d",
+				"layer": "Collision",
+				"x": 978,
+				"y": 674,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "02afb2d0-b0a0-11ee-b95b-351bf9d28de3",
+				"layer": "Collision",
+				"x": 975,
+				"y": 639,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "032ef4f0-b0a0-11ee-b95b-bde6b16a20ed",
+				"layer": "Collision",
+				"x": 972,
+				"y": 604,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "05376f20-b0a0-11ee-b95b-317f3d5b06f8",
+				"layer": "Collision",
+				"x": 970,
+				"y": 571,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "0612db00-b0a0-11ee-b95b-fbc1fbe4a58d",
+				"layer": "Collision",
+				"x": 970,
+				"y": 537,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "0b19a110-b0a0-11ee-b95b-8b13c49b3e7a",
+				"layer": "Collision",
+				"x": 940,
+				"y": 638,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "0bb2acc0-b0a0-11ee-b95b-cbf22ae2f2e0",
+				"layer": "Collision",
+				"x": 938,
+				"y": 601,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Crate",
+				"iid": "0c306840-b0a0-11ee-b95b-d5a047eb166c",
+				"layer": "Collision",
+				"x": 937,
+				"y": 567,
+				"width": 33,
+				"height": 33,
+				"color": 12470831,
+				"customFields" : {}
+			}
+		]
+	}
+}
