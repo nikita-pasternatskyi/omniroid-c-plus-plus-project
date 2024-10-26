@@ -1,13 +1,15 @@
 # Final Project
 
---> OMNIROID - Small 2D Pixel platformer game made using GLFW, FMOD, OPENGL 3.3, C++ 2017, ENTT, ASEPRITE, LDTK, with main focus being placed on visuals - Mykyta Pasternatskyi <--
+OMNIROID - Small 2D Pixel platformer game made using GLFW, FMOD, OPENGL 3.3, C++ 2017, ENTT, ASEPRITE, LDTK, with main focus being placed on visuals - Mykyta Pasternatskyi
 
-The source code for the project is located under #Development/Game_Omniroid
+## The source code for the project is located under Development/Game_Omniroid
 
 ## IMPORTANT NOTE: THE GAME HAS A MEMORY LEAK, REPLAY WORKS, HOWEVER THE AMOUNT OF MEMORY EATEN BY THE GAME INCREASES.
 
 
-## Requirements
+## Assignment Requirements
+
+## Language and Tools: Processing, Java (can change for experts based on their aforementioned wish and discussion)
 
 ### General Requirements for all game projects
 
