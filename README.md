@@ -1,5 +1,8 @@
 # Final Project
 
+## Gameplay video
+[![Gameplay video](https://img.youtube.com/vi/JZa2rlAKG6M/0.jpg)]( https://youtu.be/JZa2rlAKG6M)
+
 OMNIROID - Small 2D Pixel platformer game made using GLFW, FMOD, OPENGL 3.3, C++ 2017, ENTT, ASEPRITE, LDTK, with main focus being placed on visuals - Mykyta Pasternatskyi
 
 ## The source code for the project is located under Development/Game_Omniroid
