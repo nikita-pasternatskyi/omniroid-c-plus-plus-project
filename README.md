@@ -6,10 +6,9 @@ OMNIROID - Small 2D Pixel platformer game made using GLFW, FMOD, OPENGL 3.3, C++
 
 ## IMPORTANT NOTE: THE GAME HAS A MEMORY LEAK, REPLAY WORKS, HOWEVER THE AMOUNT OF MEMORY EATEN BY THE GAME INCREASES.
 
-
 ## Assignment Requirements
 
-## Language and Tools: Processing, Java (can change for experts based on their aforementioned wish and discussion)
+### Language and Tools: Processing, Java (can change for experts based on their aforementioned wish and discussion)
 
 ### General Requirements for all game projects
 
