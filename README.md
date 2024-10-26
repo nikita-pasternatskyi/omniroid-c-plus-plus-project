@@ -1,7 +1,10 @@
 # Final Project
 
 --> OMNIROID - Small 2D Pixel platformer game made using GLFW, FMOD, OPENGL 3.3, C++ 2017, ENTT, ASEPRITE, LDTK, with main focus being placed on visuals - Mykyta Pasternatskyi <--
-## RELEASE BUILD IS CALLED "RELEASE.ZIP", IMPORTANT NOTE: THE GAME HAS A MEMORY LEAK, REPLAY WORKS, HOWEVER THE AMOUNT OF MEMORY EATEN BY THE GAME INCREASES.
+
+The source code for the project is located under Development/Source
+
+## IMPORTANT NOTE: THE GAME HAS A MEMORY LEAK, REPLAY WORKS, HOWEVER THE AMOUNT OF MEMORY EATEN BY THE GAME INCREASES.
 
 
 ## Requirements
